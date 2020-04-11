@@ -39,6 +39,6 @@ I'll break the PySpark workflow down into a few components.
 - Elastic Net with hyperparameter tuning
 - Gradient boosted trees
 
-5) Visualization  
+5) Evaluation & Visualization  
 ![gbtree](https://user-images.githubusercontent.com/46359281/78973310-a1d9fb80-7add-11ea-8261-9f8b34b41b41.png)
 
